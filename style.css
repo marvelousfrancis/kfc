@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  background-color: white;  
+}
+nav{
+    justify-content:space-between;
+    align-items: center;
+    display: flex;
+}
+/* nav ul li{
+
+} */
+.logo{
+    width: 10px;
+height: 20px;
+}
